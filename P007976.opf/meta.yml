@@ -1,15 +1,16 @@
-id: opecha:P007976
+id: P007976
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W15654
   title: གནས་ཆེན་གངས་རི་མཚོ་གསུམ་སོགས་ཀྱི་གནས་ཡིག
-  volume:
+  author: ''
+  volumes:
     a5df777310b7408d9cbe5393e20e8f67:
       image_group_id: I1KG10453
       title: Volume 1 of gnas chen gangs ri mtsho gsum sogs kyi gnas yig
       volume_number: 1
       total_pages: 90
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གནས་ཆེན་གངས་རི་མཚོ་གསུམ་སོགས་ཀྱི་གནས་ཡིག
   author: ''
